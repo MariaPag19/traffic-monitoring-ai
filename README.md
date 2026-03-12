@@ -40,7 +40,7 @@ Computer vision project that detects, tracks and counts vehicles in a video usin
 
 
 
-!\[Demo](demo.gif)
+![Demo](demo.gif)
 
 
 
